@@ -1,0 +1,46 @@
+
+## Opening Theme ##
+
+music = {
+	name = "maintheme"
+	file = "A_Cold_Sun.ogg"
+	volume = 1.0
+}
+
+## Equestria Peace ##
+
+music = {
+	name = "Land_Of_Equestria"
+	file = "Land_Of_Equestria_equestria.ogg"
+	volume = 0.7
+}
+
+## Ezpassion Peace ##
+
+music = {
+	name = "My_Passion"
+	file = "my_passion_ezpassion.ogg"
+	volume = 0.7
+}
+
+music = {
+	name = "Skarya"
+	file = "Skarya.ogg"
+	volume = 0.7
+}
+
+## Ezpassion War ##
+
+music = {
+	name = "Starya"
+	file = "Starya.ogg"
+	volume = 0.7
+}
+
+## Lumenatyum Peace ##
+
+music = {
+	name = "By_the_Margins_of_Lumen"
+	file = "By_the_Margins_of_Lumen_lumenatyum.ogg"
+	volume = 0.7
+}

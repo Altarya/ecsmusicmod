@@ -1,0 +1,87 @@
+## Equestria Peace ##
+music = {
+	song = "Land_Of_Equestria"
+
+	chance = {
+		modifier = {
+			factor = 1
+			has_war = no
+			tag = EQS
+			## has_government = neutrality
+		}
+	    modifier = {
+		    factor = 0
+	    }
+	}
+}
+
+## Ezpassion Peace ##
+
+music = {
+	song = "My_Passion"
+
+	chance = {
+		modifier = {
+			factor = 1
+			has_war = no
+			tag = SPE
+		}
+	    modifier = {
+		    factor = 0
+	    }
+	}
+}
+
+## Ezpassion Peace - Skarya ##
+
+music = {
+	song = "Skarya"
+
+	chance = {
+		modifier = {
+			factor = 1
+			has_war = no
+			tag = SPE
+			has_government = democratic
+		}
+	    modifier = {
+		    factor = 0
+	    }
+	}
+}
+
+
+## Ezpassion War - starya ##
+
+music = {
+	song = "Starya"
+
+	chance = {
+		modifier = {
+			factor = 1
+			has_war = yes
+			tag = SPE
+			has_government = fascism
+		}
+	    modifier = {
+		    factor = 0
+	    }
+	}
+}
+
+## Lumenatyum Peace ##
+
+music = {
+	song = "By_the_Margins_of_Lumen"
+
+	chance = {
+		modifier = {
+			factor = 1
+			has_war = no
+			tag = ZEB
+		}
+	    modifier = {
+		    factor = 0
+	    }
+	}
+}
